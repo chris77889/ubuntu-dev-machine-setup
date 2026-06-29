@@ -166,10 +166,3 @@ After all is done, give your laptop a new life by rebooting.
 
 You are more than welcome to send any pull requests. However, the intention of this repo is to suit my development needs. So it might be better if you *fork* this repo instead for your own needs and personalization.
 
----
-
-## Donations
-
-If my work has helped you in any way, saving you time and effort, I would be happy to receive a donation of any amount. However, the code in this repo is completely free; absolutely *no strings attached*.
-
-Bitcoin (BTC): `bc1qzlhpm94vtk2ht67etdutzcy2g5an5v6g36tp0m`
